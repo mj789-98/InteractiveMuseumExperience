@@ -1,6 +1,6 @@
 ## InteractiveMuseumExperience
 
-Hello, this is our project for MYE-001 at the Computer Engineering Department of the University of Ioannina.
+Hello, this project is a Virtual simulation of a museum.
 
 We will be creating a 3d game that simulates a museum experience with various interactive elements.
 
