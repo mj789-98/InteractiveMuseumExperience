@@ -10,6 +10,7 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
@@ -70,3 +71,17 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+Interactive Museum Experience/Assets/Exhibits/BorgheseVase/Scaniverse.obj
+Interactive Museum Experience/Assets/Exhibits/BustOfCaligula/caligula-cleaned.obj
+Interactive Museum Experience/Assets/Exhibits/BustOfDemosthenes/louvre-demosthenes-photoscan.obj
+Interactive Museum Experience/Assets/Exhibits/BustOfTitus/mesh.obj
+Interactive Museum Experience/Assets/Exhibits/EquestrianStatueOfLouisXIV/Model.obj
+Interactive Museum Experience/Assets/Exhibits/FriseDesArchers/archer.obj
+Interactive Museum Experience/Assets/Exhibits/LaLoireEtLeLoiret/LOIRE.obj
+Interactive Museum Experience/Assets/Exhibits/Lamassus/taureau.obj
+Interactive Museum Experience/Assets/Exhibits/PseudoSeneca/mesh.obj
+Interactive Museum Experience/Assets/Exhibits/TheSeatedScribe/Scaniverse.obj
+Interactive Museum Experience/Assets/Exhibits/VenusDeMilo/Venus de Milo.obj
+Interactive Museum Experience/Assets/Exhibits/arethuse/ARETHEUSE.obj
+Interactive Museum Experience/Assets/Exhibits/winged-victory-of-samothrace/source/c53af35574404377be0fd85f71e28b27/20130929 Winged Victory isolated decimated 5pct in blender.obj
